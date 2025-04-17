@@ -12,7 +12,7 @@ dotnet new webapi -n ApiExample --no-https
 
 ```
 dotnet add package Microsoft.EntityFrameworkCore.Design
-dotnet add package Microsoft.EntityFrameworkCore.Design
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
 ```
 
 ### Swagger
